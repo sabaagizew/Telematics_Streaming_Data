@@ -12,17 +12,17 @@ How Do Telematics Systems Works?
 
 Benefits of telematics systems are;
 
-reduce fuel and operating costs,
+Reduce fuel and operating costs,
 
-optimize fleet management and driving standards,
+Optimize fleet management and driving standards,
 
-perform remote diagnostics,
+Perform remote diagnostics,
 
-improve driver and vehicle safety,
+Improve driver and vehicle safety,
 
-make more informed decisions, and
+Make more informed decisions, and
 
-provide efficient customer support.
+Provide efficient customer support.
 
 Skills
 
